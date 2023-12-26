@@ -1,12 +1,5 @@
-      ██████╗  █████╗ ████████╗ █████╗       
-      ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗      
-█████╗██║  ██║███████║   ██║   ███████║█████╗
-╚════╝██║  ██║██╔══██║   ██║   ██╔══██║╚════╝
-      ██████╔╝██║  ██║   ██║   ██║  ██║      
-      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝      
-                                             
-
-- Welcome to my GitHub repository! I am Dustin Woods, a passionate data analyst specializing in SQL, Python, and R.
+                                          
+Welcome to my GitHub repository! I am Dustin Woods, a passionate data analyst specializing in SQL, Python, and R.
     This repository serves as a showcase of my skills and projects, reflecting my dedication to delivering insightful data analysis and visualization solutions.
 
 About Me
